@@ -65,9 +65,9 @@
         <div class="navbar">
             <div class="logo">LITTLCRAFTONE</div>
             <ul class="menu-list">
-                <li><a href="#">Home</a></li>
+                <li><a href="home">Home</a></li>
                 <li><a href="aboutUs">About</a></li>
-                <li><a href="index">Shop</a></li>
+                <li><a href="home">Shop</a></li>
                 <li><a href="contactUs">Contact</a></li>
             </ul>
             <a href="javascript:void(0);" class="icon" onclick="myFunction()">
