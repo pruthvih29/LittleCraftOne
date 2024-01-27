@@ -20,4 +20,6 @@ Route::get('/', function () {
     return view('index.home');
 });
 
-Route::get('index',[indexController::class,'index'])->name('index');
+Route::get('home',[indexController::class,'home'])->name('home');
+Route::get('aboutUs',[indexController::class,'aboutUs'])->name('aboutUs');
+Route::get('contactUs',[indexController::class,'contactUs'])->name('contactUs');
